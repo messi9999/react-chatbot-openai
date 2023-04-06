@@ -1,0 +1,49 @@
+.ChatTextBox {
+  min-width: 90%;
+  height: 160px;
+  display: flex;
+  margin: auto;
+  border: 3px solid gray;
+  border-radius: 10px;
+  font-size: x-large;
+  background-color: #efeded;
+  padding-inline: 20px;
+  padding-top: 10px;
+}
+
+.ResultTextBox {
+  min-width: 90%;
+  height: 600px;
+  display: flex;
+  margin: auto;
+  border: 2px solid #f5ecec;
+  border-radius: 4px;
+  font-size: x-large;
+  background-color: #fdfdfd;
+  padding-inline: 20px;
+  padding-top: 10px;
+}
+
+.TextSide {
+  min-width: 1500px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+.container {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.AudioSide {
+  min-width: 200px px;
+}
+
+.btn {
+  font-size: 24px;
+  padding: 12px 24px;
+  border-radius: 10px;
+  transform: translateX(50%);
+  margin-top: 10px;
+}
